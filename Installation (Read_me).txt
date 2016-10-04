@@ -23,12 +23,4 @@ Step 1.
 
  
   /*                            Done                        */ 
- 
-	Live Demo : www.beinggo.com/kisannetwork (Uploading shortly to AWS Instance)
 
-
-	references :
-		https://startbootstrap.com/
-		themes.getbootstrap.com/
-		https://docs.nexmo.com/
-		https://github.com/prawnsalad/Nexmo-PHP-lib
