@@ -50,7 +50,7 @@ if ($conn->query($sql) === TRUE) {
    */
 
   // Step 1: Declare new NexmoMessage.
-  $nexmo_sms = new NexmoMessage('ae8b631b', '15f2818c45bcd779');
+  $nexmo_sms = new NexmoMessage('XXXXXXXX', 'XXXXXXXXXXXXXXXX');
 
   // Step 2: Use sendText( $to, $from, $message ) method to send a message. 
   $info = $nexmo_sms->sendText( $_POST['phone'], 'Ziaur Rahaman', $_POST['message']);
